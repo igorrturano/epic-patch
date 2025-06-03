@@ -1,0 +1,2 @@
+*.uop filter=lfs diff=lfs merge=lfs -text
+*.mul filter=lfs diff=lfs merge=lfs -text
