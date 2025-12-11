@@ -1,0 +1,10 @@
+# UO Encryption System Requirements
+
+# Core encryption library (AES-GCM support)
+pycryptodome>=3.19.0
+
+# Optional: For better performance
+# cryptography>=41.0.0
+
+# Optional: For GUI tools (future)
+# tkinter is built-in to Python
