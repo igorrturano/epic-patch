@@ -1,0 +1,39 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test and temporary files
+.pytest_cache/
+*.log
+*.tmp
+.coverage
+htmlcov/
+
+# Backup files
+*.bak
+*.backup
+backups/
+
+# Encrypted test files (keep originals in repo)
+*.enc
+*.dec
+
+# OS files
+.DS_Store
+Thumbs.db
